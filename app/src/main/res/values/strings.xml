@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">QR Oluşturma</string>
+    <string name="qr_code">QR Code</string>
+    <string name="information">Enter Your Info</string>
+    <string name="generate">Generate QR Code</string>
+
+
+</resources>
